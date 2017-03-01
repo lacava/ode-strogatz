@@ -17,7 +17,7 @@ The data files from simulation are provided for benchmarking purposes for system
 
 It has been used as a benchmark dataset in the following publications:
  
- - La Cava, W., Danai, K., Spector, L., (2016). "Inference of Compact Nonlinear Dynamic Models by Epigenetic Local Search." Engineering Applications of Artificial Intelligence. [doi:10.1016/j.engappai.2016.07.004](http://authors.elsevier.com/a/1TVk33OWJ8hFJk)
+ - La Cava, W., Danai, K., Spector, L., (2016). "Inference of Compact Nonlinear Dynamic Models by Epigenetic Local Search." Engineering Applications of Artificial Intelligence. [doi:10.1016/j.engappai.2016.07.004](http://www.sciencedirect.com/science/article/pii/S0952197616301294)
 
  - Schmidt, M.D. (2011) Machine Science: Automated Modeling of Deterministic and Stochastic Dynamical Systems. PhD Thesis.
 
