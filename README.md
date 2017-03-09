@@ -1,4 +1,4 @@
-# Strogatz's Ordinary Differential Equations Benchmark 
+# Textbook Ordinary Differential Equations Benchmark 
 
 
 This repository contains 2-state dynamic models adapted from Steven Strogatz's book "Chaos and Nonlinear Dynamics". They represent idealized dynamical systems from many fields of study. 
