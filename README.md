@@ -1,3 +1,5 @@
+*Note*: these datasets are now available as part of the [Penn Machine Learning Benchmark (PMLB)](https://github.com/EpistasisLab/pmlb).
+
 # Textbook Ordinary Differential Equations Benchmark 
 
 
