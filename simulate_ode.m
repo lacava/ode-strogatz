@@ -38,7 +38,7 @@ for i=1:4
     glider2((i-1)*n+1:i*n,:) = [dy_s(1:n) f_s(1:n) y_s(1:n)];
 end
 
-%% Lotka-Volterra
+%% Lotka-Volterra model of competition (pg 156, Strogatz)
 outstr = {'3*u(1)-2*u(1)*u(2)-u(1)^2';
           '2*u(2)-u(1)*u(2)-u(2)^2'};
 
@@ -96,7 +96,7 @@ for i=1:4
 end   
 
 %% van der Pol (p 212, strogatz)
-outstr = {'10*(u(2)-(1/3*(u(1)^3-u(1))))';
+outstr = {'10*(u(2)-(1/3*u(1)^3-u(1)))';
           '-1/10*u(1)'};
 for i=1:4      
     IC = rand(2,1);
